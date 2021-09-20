@@ -1,1 +1,3 @@
-Olá, meu nome é João Lucas Gomes Rocha, tenho 19 anos e sou estudante de programação.
+## Olá, meu nome é João Lucas!
+💻📗 Atualmente estou estudando JavaScript, HTML e CSS.
+

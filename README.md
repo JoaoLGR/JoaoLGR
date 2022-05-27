@@ -1,5 +1,5 @@
 ## Olá! Eu sou o João Lucas
-- Tenho 19 anos.
+- Tenho 20 anos.
 - Atualmente estudando e adquirindo experiências.
  <div>
 <div align="">

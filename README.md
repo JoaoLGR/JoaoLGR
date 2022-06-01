@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Lucas
 - Tenho 20 anos.
-- Atualmente estudando e adquirindo experiências.
+- Sou um ciclista apaixonado por tecnologia, atualmente cursando ADS e fazendo cursos sobre desenvolvimento web. Estou buscando oportunidades para aperfeiçoar meus conhecimentos e me tornar um ótimo profissional na área que eu tanto amo.
  <div>
 <div align="">
   <a href="https://github.com/JoaoLGR">
